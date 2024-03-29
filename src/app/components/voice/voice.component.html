@@ -1,1 +1,38 @@
-<p>voice works!</p>
+<body>
+
+<div class="maincontainer">
+<div class="container">
+  <div class="shape1"></div>
+  <div class="shape2"></div>
+  <div class="middelcontainer">
+    <div id="smalltxt"> Created at Syfrox</div>
+    <div class="wrapper">
+      <div id="text"> Voice Recognition Service</div>
+      <div id="midday"></div>
+    </div>
+
+    <div class="action-field" style="margin-top: 5%">
+      <button class="btn start no-select" (click)="onClick(true)">Start Recording</button>
+      <button class="btn stop no-select" (click)="onClick(false)">Stop Recording</button>
+    </div>
+    <div class="reset" (click)="resettranscript(true)">Reset Transcript </div>
+  </div>
+
+</div>
+
+<div class="login-container">
+
+  <div class="login-card">
+
+    <h1 class="heading">Recording Is :  <a style="color: {{color}}">{{Status}}</a> </h1>
+      <div class="form-field">
+        <h4 style="color: white">Here's a transcript : {{ service.text }}</h4>
+      </div>
+  </div>
+
+</div>
+
+</div>
+
+
+</body>
