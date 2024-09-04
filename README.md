@@ -1,7 +1,3 @@
-Here's a template for your "Speech to Audio Converter" project, following the example you've provided:
-
----
-
 # Speech to Audio Converter - Real-Time Speech to Text 🗣️➡️💬
 
 Welcome to Speech to Audio Converter, the ultimate tool for converting spoken words into text in real-time. Whether you're recording a lecture, capturing meeting notes, or dictating your thoughts, our tool makes it easy to convert your voice into written text instantly. With features like start, pause, and reset recording, you'll have full control over your transcription process. 🎤📝
