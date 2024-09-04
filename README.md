@@ -48,10 +48,10 @@ Explore the powerful features of our Speech to Audio Converter:
 
 ## Demo Screenshots
 
-![recording](https://example.com/screenshot1)
-![live-transcription](https://example.com/screenshot2)
-![settings](https://example.com/screenshot3)
-![export-options](https://example.com/screenshot4)
+![Main](https://github.com/JBORAD988/VoiceRecognition_in_Angular/blob/d0be3ef162db019c873ad3389911292961b6f0fe/src/assets/screen-shots/screencapture-literate-space-telegram-v7p949gp45w25v4-4200-app-github-dev-2024-09-02-12_36_45.png)
+![Start](https://github.com/JBORAD988/VoiceRecognition_in_Angular/blob/d0be3ef162db019c873ad3389911292961b6f0fe/src/assets/screen-shots/screencapture-literate-space-telegram-v7p949gp45w25v4-4200-app-github-dev-2024-09-02-12_37_47.png)
+![Stop](https://github.com/JBORAD988/VoiceRecognition_in_Angular/blob/d0be3ef162db019c873ad3389911292961b6f0fe/src/assets/screen-shots/screencapture-literate-space-telegram-v7p949gp45w25v4-4200-app-github-dev-2024-09-02-12_37_56.png)
+![Reset](https://github.com/JBORAD988/VoiceRecognition_in_Angular/blob/d0be3ef162db019c873ad3389911292961b6f0fe/src/assets/screen-shots/screencapture-literate-space-telegram-v7p949gp45w25v4-4200-app-github-dev-2024-09-02-12_38_07.png)
 
 ## How to Use the Website 🖥️
 
