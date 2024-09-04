@@ -61,19 +61,6 @@ Explore the powerful features of our Speech to Audio Converter:
 
 3. **Pause or Reset**: Use the "Pause" button to temporarily stop recording, and the "Reset" button to clear the current session.
 
-4. **Save and Export**: When you're done, save the transcription to your device and export it in your preferred format.
-
-5. **Adjust Settings**: Access the settings menu to customize language preferences, microphone input, and more for optimal transcription quality.
-
-6. **Contact Us**: For any questions, feedback, or support, feel free to [contact us](#contact-us). 🎙️💬📝
-
-## Contact Us 📞
-
-We are here to assist you. If you have any questions, suggestions, or need help, please reach out to us:
-
-- **Customer Support**: [support@speechtoaudio.com](mailto:support@speechtoaudio.com)
-- **Phone**: +91 12345 67890
-- **Address**: 123 Speech Lane, Voice City, Gujarat, India 📍📞🏢
 
 Thank you for choosing Speech to Audio Converter. We look forward to helping you turn your words into text effortlessly. Happy transcribing! 🎤📝👍
 
